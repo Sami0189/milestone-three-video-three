@@ -1,0 +1,5 @@
+{
+    "tailwindcss-intellisense.trace.server": "off",
+    "editor.suggest.matchOnWordStartOnly": true,
+    "tailwindCSS.emmetCompletions": true
+}
